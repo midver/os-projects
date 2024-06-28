@@ -1,0 +1,13 @@
+FIFO
+read 0
+write 80 888
+write 60 555
+write 4 444
+read 80
+read 20
+read 0
+showptable
+showmain 0
+showmain 5
+egg
+quit

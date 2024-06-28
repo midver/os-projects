@@ -1,0 +1,11 @@
+LRU
+write 0 11
+write 8 22
+write 16 33
+write 24 44
+write 30 55
+read 8
+read 0
+showmain 1
+showptable
+quit
